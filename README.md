@@ -1,1 +1,1 @@
-# javascript_oop_for_beginers
+# javascript_oop_for_beginners
